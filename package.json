@@ -1,0 +1,25 @@
+{
+  "name": "primeiroacesso",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node -r dotenv/config index.js"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Cícero Rodrigues",
+    "email": "cicerorod@gmail.com.br"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cicerorod/igti-fullstack-mod4-crud-mongodb.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.9.19",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
