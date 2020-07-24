@@ -17,26 +17,30 @@ Lista de DataBase existentes no MongoDb Atlas desenvolvido no bootcamp fullstack
 
 ##### Exemplo de retorno:
 
-```json
-[
-  {
-    "_id": "5ef8404586891b16db8f48ff",
-    "name": "Pedro Augusto",
-    "subject": "Historia",
-    "type": "Trabalho Pratico",
-    "value": 17.5,
-    "lastModified": "2020-07-24T03:47:46.202Z"
-  },
-  {
-    "_id": "5ef8405586891b16db8f4902",
-    "name": "Ana Maria Silva",
-    "subject": "Portugues",
-    "type": "Prova Final",
-    "value": 23.8,
-    "lastModified": "2020-07-24T03:47:46.207Z"
-  }
-]
-```
+`
+
+\$ node -r dotenv/config index.js
+
+- <grades>
+- DesafioFinalBootcampFullStack
+- accounts
+- apiRocketseat
+- desafio
+- desafios
+- grades
+- sample_airbnb
+- sample_analytics
+- sample_geospatial
+- sample_mflix
+- sample_restaurants
+- sample_supplies
+- sample_training
+- sample_weatherdata
+- admin
+- local
+  Done in 2.88s.
+
+`
 
 ## ![](https://img.icons8.com/ios-filled/20/000000/hammer.png) Recursos utilizados:
 
