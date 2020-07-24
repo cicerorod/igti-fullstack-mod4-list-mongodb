@@ -2,12 +2,6 @@
 
 Lista de DataBase existentes no MongoDb Atlas desenvolvido no bootcamp fullstack da IGTI
 
-## <img src="https://img.icons8.com/ios-filled/20/000000/browser-window.png"/> Insomnia
-
-<p align="center">
-  <img src="https://github.com/cicerorod/igti-fullstack-mod4-list-mongodb/blob/master/img/tela.PNG">
-</p>
-
 ## ![](https://img.icons8.com/metro/20/000000/run-command.png) Execução
 
 1. Clonar via prompt de comando o projeto em uma pasta de sua preferência: `git clone https://github.com/cicerorod/igti-fullstack-mod4-list-mongodb.git`
@@ -17,30 +11,29 @@ Lista de DataBase existentes no MongoDb Atlas desenvolvido no bootcamp fullstack
 
 ##### Exemplo de retorno:
 
-`
-
+```bash
 \$ node -r dotenv/config index.js
 
-- <grades>
-- DesafioFinalBootcampFullStack
-- accounts
-- apiRocketseat
-- desafio
-- desafios
-- grades
-- sample_airbnb
-- sample_analytics
-- sample_geospatial
-- sample_mflix
-- sample_restaurants
-- sample_supplies
-- sample_training
-- sample_weatherdata
-- admin
-- local
-  Done in 2.88s.
+<grades>
+DesafioFinalBootcampFullStack
+accounts
+apiRocketseat
+desafio
+desafios
+grades
+sample_airbnb
+sample_analytics
+sample_geospatial
+sample_mflix
+sample_restaurants
+sample_supplies
+sample_training
+sample_weatherdata
+admin
+local
+Done in 2.88s.
 
-`
+```
 
 ## ![](https://img.icons8.com/ios-filled/20/000000/hammer.png) Recursos utilizados:
 
