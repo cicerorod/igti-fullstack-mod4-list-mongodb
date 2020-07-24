@@ -39,7 +39,6 @@ Done in 2.88s.
 
 - **[Node.js](https://nodejs.org/en/)**
 - **[DotEnv](https://www.npmjs.com/package/dotenv)**
-- **[Nodemon](https://www.npmjs.com/package/nodemon)**
 - **[MongoDB](https://www.mongodb.com/)**
 - **[MongoDB Atlas](https://www.mongodb.com/cloud/atlas)**
 - **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=hackingcarreira_wmc-github-gllemos)**
